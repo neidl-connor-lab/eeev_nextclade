@@ -1,0 +1,10 @@
+##gff-version 3
+KX029260	Genbank	gene	24	1622	.	+	.	gene=nsp1;product=mRNA-capping enzyme nsp1
+KX029260	Genbank	gene	1623	4004	.	+	.	gene=nsp2;product=protease nsp2
+KX029260	Genbank	gene	4005	5681	.	+	.	gene=nsp3;product=non-structural protein nsp3
+KX029260	Genbank	gene	5682	7505	.	+	.	gene=nsp4;product=RNA-directed RNA polymerase nsp4
+KX029260	Genbank	gene	7572	8354	.	+	.	gene=C;product=capsid protein
+KX029260	Genbank	gene	8355	8543	.	+	.	gene=E3;product=E3 protein
+KX029260	Genbank	gene	8544	9803	.	+	.	gene=E2;product=E2 envelope glycoprotein
+KX029260	Genbank	gene	9804	9974	.	+	.	gene=6K;product=6K membrane protein
+KX029260	Genbank	gene	9975	11297	.	+	.	gene=E1;product=E1 envelope glycoprotein
