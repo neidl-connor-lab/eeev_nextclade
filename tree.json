@@ -8,7 +8,7 @@
         "start": 1,
         "strand": "+",
         "type": "##sequence-region pragma",
-        "seqid": "eee_KX029260_cds.gff3"
+        "seqid": "genome_annotation.gff3"
       }
     },
     "colorings": [
